@@ -1,0 +1,12 @@
+{
+  "name": "easyrtc-client",
+  "version": "1.1.1-beta",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "repository": "",
+  "license": "",
+  "devDependencies": {
+    "easyrtc": "git://github.com/priologic/easyrtc.git#beta"
+  }
+}
